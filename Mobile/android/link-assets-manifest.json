@@ -1,0 +1,261 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Hellix-Black.eot",
+      "sha1": "068c8ca5af82deb782d86cbf94b9fa7b91f818c2"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Black.ttf",
+      "sha1": "c2773c62ec859aab0a5c111178ae2a8010235528"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Black.woff",
+      "sha1": "d2a93142a113f3469ea82fa87c8627394547f340"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Black.woff2",
+      "sha1": "9ac535d15e3af38ae993f831ae7b76417edccdf1"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-BlackItalic.eot",
+      "sha1": "63cdfc65803a925de1c739590113fdb26ad3bf0f"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-BlackItalic.ttf",
+      "sha1": "652c0e8152045f5a2a702e948768aa96d2a8eb84"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-BlackItalic.woff",
+      "sha1": "0759e7059ee197b49c43be85a24e247663e99ac4"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-BlackItalic.woff2",
+      "sha1": "b6354aec7bfae91972f041f32ee22ed90eff93db"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Bold.eot",
+      "sha1": "0ba995180fab4eba6cdc4cb222c81150df04072b"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Bold.ttf",
+      "sha1": "4217be81ace6cba1317d2edbec34564b00b303a4"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Bold.woff",
+      "sha1": "cc90a7db75df2ea3ad3edbf8ead9cd40650e26c3"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Bold.woff2",
+      "sha1": "5d6e92bd8b07e6df1675dbb08e8e5735e8d92c5c"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-BoldItalic.eot",
+      "sha1": "2c8b44752bdeeb47f5a509228fa908875689a6dd"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-BoldItalic.ttf",
+      "sha1": "b96decf0f2af6263b8527436193e274d861869ed"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-BoldItalic.woff",
+      "sha1": "d2d3266eb0ac44da0e1e23255363a5c78b403444"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-BoldItalic.woff2",
+      "sha1": "b018b9425b9280e58c2b13b6f7e645adf104fe29"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ExtraBold.eot",
+      "sha1": "75d9fe4e4bd8ddc45eb77e02f22d6ed54ee81593"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ExtraBold.ttf",
+      "sha1": "6deaf17570311c481a655bf3ee9db19beb83c37f"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ExtraBold.woff",
+      "sha1": "fc274b6878c2d2a073109d664e912462811ac8df"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ExtraBold.woff2",
+      "sha1": "d64509dc21287592ac6c895c1d59486de1df3c50"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ExtraBoldItalic.eot",
+      "sha1": "555ece5f145184e3fe8fa2f148bed649b6a53c87"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ExtraBoldItalic.ttf",
+      "sha1": "c8f0927033b94bf4fa9a2b45c4550c00b792961b"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ExtraBoldItalic.woff",
+      "sha1": "9fe0ac8471804ddb7edb02f383549ebf552d3204"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ExtraBoldItalic.woff2",
+      "sha1": "c0bd06dcd2c5b6199c9a27590952308cbe28253e"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Light.eot",
+      "sha1": "c0c81bea94d2128572d6ab73eba1e2d91fc87486"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Light.ttf",
+      "sha1": "d187e58a5d2c36742591d205c33c3a20ea6e94d8"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Light.woff",
+      "sha1": "f43230b3b03a2af07317adace90b0b11c770bbfc"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Light.woff2",
+      "sha1": "3ddd127da314c987bae58518a03f4a41f09881db"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-LightItalic.eot",
+      "sha1": "58725d28e16433f56a07745e652cdfe830dd9ebe"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-LightItalic.ttf",
+      "sha1": "5b219da76179218e274217d73ce6f8f940097ca7"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-LightItalic.woff",
+      "sha1": "bbac1e71986698e0ad44539e71370b63eea18993"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-LightItalic.woff2",
+      "sha1": "51c5ee111a13bbf3806faf6e7a4d84361777cb83"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Medium.eot",
+      "sha1": "24bcf8fe47622ddf02bec443cb736c9b90fba839"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Medium.ttf",
+      "sha1": "42f1268c7f5df48421ee558b80d69aab8aece1f2"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Medium.woff",
+      "sha1": "223a16520014cddd8c22012f804e6e075485234f"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Medium.woff2",
+      "sha1": "9993cc55d57f40684aef476e6c431b69756b1662"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-MediumItalic.eot",
+      "sha1": "51e5a5e8341f1d25d7fd135f46039dc5ce973460"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-MediumItalic.ttf",
+      "sha1": "49849a97adaf32e83ec7cacfec39a60034655d6e"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-MediumItalic.woff",
+      "sha1": "714a945030a4a5551f6a6d4694335d4fc2e51801"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-MediumItalic.woff2",
+      "sha1": "ec668f430fe49490c24e3c1b3a0ad275100a90ec"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Regular.eot",
+      "sha1": "44e207005875781085e07e78be4cf0dc808f0628"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Regular.ttf",
+      "sha1": "d3fca24f9ecc75d7c0b35dcbf6e388648d282ea1"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Regular.woff",
+      "sha1": "b9b48cba915021fa946d8912e105a8cb858fbb83"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Regular.woff2",
+      "sha1": "abd9005b31a9167387202304d7e2980ca78ae9e1"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-RegularItalic.eot",
+      "sha1": "3e70a31373a940664b17a62629c78caf3c3728f5"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-RegularItalic.ttf",
+      "sha1": "556a8727dc717a1939043851bfbf3ee4d6d70620"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-RegularItalic.woff",
+      "sha1": "89e43ee0f8639b8ce23919265e6d0a99f298e2dc"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-RegularItalic.woff2",
+      "sha1": "0441bd399d2f23130796589854cff115bf1655ef"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-SemiBold.eot",
+      "sha1": "aebb712b197d1b0fc28cdbabe9920e373e62a6cf"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-SemiBold.ttf",
+      "sha1": "1b0c5873ee0aae874e591a72b95b12b0b825eba1"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-SemiBold.woff",
+      "sha1": "af64616b6f3a47e536d5ce76b746f686fc56f605"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-SemiBold.woff2",
+      "sha1": "147124b07385a78b98a7a6117a54d81e38055071"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-SemiBoldItalic.eot",
+      "sha1": "c8fb9b40d24b1c4bf73f8c878407e391a6413275"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-SemiBoldItalic.ttf",
+      "sha1": "3a5fb4046e2b0eb47683bfbaf6e1fc9d6399df4d"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-SemiBoldItalic.woff",
+      "sha1": "ee149f1f517cdd6903802b1ce627b5c287915bd3"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-SemiBoldItalic.woff2",
+      "sha1": "ca5ab73a5695ea5b0702395c5a3558036327a4ea"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Thin.eot",
+      "sha1": "0a7a9ac654be885d4cfa5f5ea7015961480723be"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Thin.ttf",
+      "sha1": "b6c1c06f3bdd33233d1cd48a67d7c57cd513265d"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Thin.woff",
+      "sha1": "c394b9c81587984f75fa1ce351186d3d4ec42ce2"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Thin.woff2",
+      "sha1": "b4affae8b0404fa034c2e6f2040eae95c7b0f92a"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ThinItalic.eot",
+      "sha1": "31e7803c00b31b0ace15a8c26da9a950561bb9bf"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ThinItalic.ttf",
+      "sha1": "3540dcbdd93352642c3361a80d5e1b0af35f0b9f"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ThinItalic.woff",
+      "sha1": "11bf0599ba9113b2dffe70a54c1e338f510c7fb5"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-ThinItalic.woff2",
+      "sha1": "cce5b52eef17f032f5ce51cc14122fc35586a2ce"
+    }
+  ]
+}
